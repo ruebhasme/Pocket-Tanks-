@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tanks.SampleTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-19T13:39:29" hostname="ADELINE28" time="0.046">
+  <properties/>
+  <testcase name="testGetAttackerTank()" classname="Tanks.SampleTest" time="0.036"/>
+  <testcase name="testDamageTerrain()" classname="Tanks.SampleTest" time="0.002"/>
+  <testcase name="testResetDamageFlags()" classname="Tanks.SampleTest" time="0.002"/>
+  <testcase name="testConstructor()" classname="Tanks.SampleTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
